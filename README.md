@@ -23,6 +23,4 @@ Identify churn patterns and revenue impact across different customer segments su
 ### 📁 Dataset:
 Simulated churn dataset with 7,000+ users, mimicking app usage and transaction behavior in a fintech product.
 
----
-
 ⚡ *Built as a portfolio project to demonstrate real-world business insights in the fintech domain.*
